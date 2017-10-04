@@ -1,1 +1,5 @@
-body{font-family: Helvetica Neue}
+body{font-family: Helvetica Neue;
+  color: rgb(222, 222, 222);
+  background-color: rgb(17,17,17);
+  font-size: 42px;
+  text-align: center}

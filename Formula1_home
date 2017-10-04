@@ -9,6 +9,8 @@
     <link rel="stylesheet" type="text/css" href="Formula1_style">
   </head>
   <body>
-    <p>Test</p>
+    <h1>Formula 1</h1>
+    <p>Deze website gaat over de Formula 1</p>
+    <p><img src="Formula1.jpg" width="256" height="256 "title="Formula 1" alt="Formula 1"></p>
   </body>
 </html>
