@@ -12,5 +12,7 @@
     <h1>Formula 1</h1>
     <p>Deze website gaat over de Formula 1</p>
     <p><img src="Formula1.jpg" width="256" height="256 "title="Formula 1" alt="Formula 1"></p>
+    <form> Suggestions <br> <input type="text" name="Suggestions" class="input">
+    <input type="submit" name="Submit" ></form>
   </body>
 </html>
