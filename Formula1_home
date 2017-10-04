@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Formula1, Formula 1, Formule1 Formule 1, F1, f1">
+    <meta name="author" content="Milan van Helvoort, Willem Fluitsma">
+    <title>Formula 1</title>
+    <link rel="icon" href="Formula1.jpg">
+    <link rel="stylesheet" type="text/css" href="Formula1_style">
+  </head>
+  <body>
+    <p>Test</p>
+  </body>
+</html>
