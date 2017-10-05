@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Formula1, Formula 1, Formule1 Formule 1, F1, About, Milan van Helvoort, Willem Fluitsma">
+    <meta name="author" content="Milan van Helvoort, Willem Fluitsma">
+    <title>About</title>
+    <link rel="icon" href="Formula1.jpg">
+    <link rel="stylesheet" type="text/css" href="Formula1_style">
+  </head>
+  <body>
+    <ul>
+      <li><a href="Formula1_home">Home</a></li>
+      <li><a href="Formula1_suggestions">Suggestions</a></li>
+      <li style="float:right"><a class="active" href="Formula1_about">About</a></li>
+    </ul>
+    <h1>Formula 1</h1>
+    <p>About us</p>
+    <p style="font-size: 16px">Hallo</p>
+    <p>Contact us</p>
+  </body>
+</html>

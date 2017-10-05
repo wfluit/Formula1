@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Formula1, Formula 1, Formule1 Formule 1, F1, f1, Suggestions">
+    <meta name="author" content="Milan van Helvoort, Willem Fluitsma">
+    <title>Suggestions</title>
+    <link rel="icon" href="Formula1.jpg">
+    <link rel="stylesheet" type="text/css" href="Formula1_style">
+  </head>
+  <body>
+    <ul>
+      <li><a href="Formula1_home">Home</a></li>
+      <li><a class="active" href="Formula1_suggestions">Suggestions</a></li>
+      <li style="float:right"><a href="Formula1_about">About</a></li>
+    </ul>
+    <h1>Formula 1</h1>
+    <p1>Suggestions</p1>
+    <form><input type="text" name="Suggestions" class="input">
+    <input type="submit" name="Submit" ></form>
+  </body>
+</html>

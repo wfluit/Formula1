@@ -9,6 +9,15 @@
     <link rel="stylesheet" type="text/css" href="Formula1_style">
   </head>
   <body>
-    <p>Test</p>
+    <ul>
+      <li><a class="active" href="Formula1_home">Home</a></li>
+      <li><a href="Formula1_suggestions">Suggestions</a></li>
+      <li style="float:right"><a href="Formula1_about">About</a></li>
+    </ul>
+    <h1>Formula 1</h1>
+    <p>Deze website gaat over de Formula 1</p>
+    <p><img src="Formula1.jpg" width="256" height="256 "title="Formula 1" alt="Formula 1"></p>
+    <p><a href="Formula1_about">About & contact</a></p>
+    <p><a href="Formula1_suggestions">Suggestions</a></p>
   </body>
 </html>
