@@ -1,3 +1,3 @@
 # Formula1
-School project
+School project <br>
 This is a school project
